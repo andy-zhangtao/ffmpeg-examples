@@ -182,4 +182,4 @@ while (av_read_frame(pAVFormatContext, pAVPacket) >= 0) {
 ```
 
 以后就按照这种的处理逻辑，不停的从输入设备读取数据，然后经过解码->转码->编码，最后发送到输出设备。 这样就完成了录屏功能。
-上面是大致处理思路，完整源代码可以参考 https://github.com/andy-zhangtao/ffmpeg-examples/tree/master/ScreenRecord .
+上面是大致处理思路，完整源代码可以参考 (https://github.com/andy-zhangtao/ffmpeg-examples/tree/master/ScreenRecord) .

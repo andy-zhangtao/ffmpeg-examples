@@ -1,0 +1,3 @@
+/Users/zhangtao/SourceCode/github/ffmpeg-examples/SceenRecord-h264/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhangtao/SourceCode/github/ffmpeg-examples/SceenRecord-h264/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangtao/SourceCode/github/ffmpeg-examples/SceenRecord-h264/cmake-build-debug/CMakeFiles/SceenRecord_h264.dir

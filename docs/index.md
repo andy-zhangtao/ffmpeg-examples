@@ -4,3 +4,4 @@
 * [ScreenRecord 实现mac下录屏功能并进行H.264编码](screenrecord-h264.md)
 * [Filter 实现filter-complex功能](filter.md)
 * [通过pts计算time](PTS-TimeStamp.md)
+* [修改setpts调整局部视频速率](isetpts.md)

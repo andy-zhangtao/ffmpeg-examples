@@ -1,0 +1,3 @@
+/Users/zhangtao/SourceCode/github/ffmpeg-examples/ifilter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhangtao/SourceCode/github/ffmpeg-examples/ifilter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangtao/SourceCode/github/ffmpeg-examples/ifilter/cmake-build-debug/CMakeFiles/ifilter.dir

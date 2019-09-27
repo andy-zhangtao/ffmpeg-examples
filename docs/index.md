@@ -6,3 +6,4 @@
 * [通过pts计算time](PTS-TimeStamp.md)
 * [修改setpts调整局部视频速率](isetpts.md)
 * [编写一个AVFilter](ifade.md)
+* [重温读取/输出有感](how-to-analysiz.md)

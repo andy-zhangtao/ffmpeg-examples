@@ -106,4 +106,4 @@ avfilter_link(ifade_ctx, 0, buffersink_ctx, 0);
 
 而所谓的`精细化`就是在这里体现的，通过代码的逻辑判断，可以动态的组合不同的`AVFilter`生成不同的`Filter Graph`。并且还可以组合不同的输入/输出端。
 
-本次代码示例可以参考`ifilter`。同时也可以参考 `[ffmpeg-go-server](https://github.com/andy-zhangtao/ffmpeg-go-server/blob/master/filters/ifade/copy.c)`(一个尝试为ffmpeg提供restful API的web server)。
+本次代码示例可以参考`ifilter`。同时也可以参考 [ffmpeg-go-server](https://github.com/andy-zhangtao/ffmpeg-go-server/blob/master/filters/ifade/copy.c)(一个尝试为ffmpeg提供restful API的web server)。

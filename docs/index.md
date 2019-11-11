@@ -8,3 +8,4 @@
 * [编写一个AVFilter](ifade.md)
 * [重温读取/输出有感](how-to-analysiz.md)
 * [实现可控的Filter-Complex](filter-complex.md)
+* [Overlay坐标点的计算](overlay.md)
